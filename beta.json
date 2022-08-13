@@ -1,0 +1,34 @@
+{
+  "config": {
+      "homesteadBlock": 0,
+"daoForkBlock":0,
+    "eip150Block": 0,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+"byzantiumBlock": 0,
+"constantinopleBlock": 0,
+"petersburgBlock": 0,
+
+"ChainID" :911986,
+"istanbulBlock": 0,
+
+    "ethash": {}
+  },
+  "difficulty": "1",
+  "gasLimit": "8000000",
+"alloc": {
+    "0x8986f651a23B8bc75366Bbd1d5506F02A88A305b": { "balance": "99999999999999999999999999999999999999999999999999999999999999999999999999" },
+"0x5E9D124d3d0085E874D47fAa96f9c2A49223406f":{"balance":"9999999999999999999999999999999999"},
+"0xEbeE3A01F4f7829eAA751121730b6c7C913a8A98":{"balance":"999999999999999999999999999999999"},
+"0xF6846E0d15609c3F4469d6e1A64b17386f4A29F5":{"balance":"99999999999999999999999999999999"},
+"0xa26B713620636e7Ee2d177564284fAf400631A7c":{"balance":"9999999999999999999999999999"},
+"0xe69648d7faeb66ae9e6ce27c1fcad0d36166a167":{"balance":"99999999999999999999999999999999999999"}
+
+  }   
+}
+
+

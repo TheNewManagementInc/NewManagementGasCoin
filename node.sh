@@ -1,0 +1,1 @@
+ geth --datadir new1 --networkid 911986 --bootnodes "enode://efad95a18d77237de9aa0ca6d2893eb8e47f9da286ed26eae7fd301a8c0d494bd2cbae70158fac35f2ea8a6a1e5dbcd5101f6e909405ce4a4e2c82349521f492@159.223.178.212:3030" --syncmode full --http --port 8546  console
